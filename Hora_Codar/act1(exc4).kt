@@ -17,7 +17,7 @@ fun menu(){
     println ("4 - TRAPEZIO")
     println ("5 - PARALILOGRAMO")
     println ("6 - TRIÂNGULO")
-    println ("7 - CIRCUITO")
+    println ("7 - CIRCUlO")
     println()
     println("Escolha uma figura:")
     var opcao = readLine()!!.toInt()
